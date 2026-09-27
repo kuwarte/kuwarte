@@ -61,3 +61,9 @@ kuwarte@github~$ whoami
 `> LinkedIn`
 
 > [`jaspercuarte`](https://www.linkedin.com/in/jaspercuarte/)
+
+<br/>
+
+<pre>
+kuwarte@github~$ exit
+</pre>
