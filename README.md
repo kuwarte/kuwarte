@@ -36,34 +36,28 @@ kuwarte@github~$ whoami
 
 > <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,maven,npm,pnpm,postman,docker,vercel,railway" />
 
-### Dotfiles
+### Featured Projects and Repositories
 
-`> Neovim + WSL config`
+`> Web Application`
 
-> [`dotfiles`](https://github.com/kuwarte/dotfiles)
+- [`avanzem`](https://avanzem.vercel.app) `:` `Project Management Tool`
+- [`typecircle`](https://typecircle.vercel.app) `:` `Enneagram Social Website`
 
-### Featured Projects
+`> Dotfiles`
 
-`> Project Management Tool`
+- [`dotfiles`](https://github.com/kuwarte/dotfiles) `:` `WSL and Neovim Configuration`
 
-> [`avanzem`](https://avanzem.vercel.app)
-
-`> Enneagram Social Platform`
-
-> [`typecircle`](https://typecircle.vercel.app)
+`> TUI Application`
+ 
+- [`erd-cli`](https://github.com/kuwarte/erd-cli) `:` `Terminal-Based ERD Diagram / Editor`
+- [`gantt-tui`](https://github.com/kuwarte/gantt-tui) `:` `Terminal-Based Gantt Chart Editor`
 
 ### Contact
 
-`> Portfolio`
-
-> [`kuwarte.vercel.app`](https://kuwarte.vercel.app)
-
-`> LinkedIn`
-
-> [`jaspercuarte`](https://www.linkedin.com/in/jaspercuarte/)
+- [`kuwarte.vercel.app`](https://kuwarte.vercel.app) `:` `Portfolio`
+- [`jaspercuarte`](https://www.linkedin.com/in/jaspercuarte/) `:` `LinkedIn`
 
 <br/>
-
 <pre>
 kuwarte@github~$ exit
 </pre>
