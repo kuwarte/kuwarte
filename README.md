@@ -18,8 +18,6 @@ kuwarte@github~$ whoami
 - `3rd-year Computer Science student`
 - `Mostly build on the backend, but comfortable across the stack`
 
-<br/>
-
 ### Tech Stack
 
 `> Languages`
@@ -41,15 +39,11 @@ kuwarte@github~$ whoami
 
 > <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,maven,npm,pnpm,postman,docker,vercel,railway" />
 
-<br/>
-
 ### Dotfiles
 
 `> Neovim + WSL config`
 
 > [`dotfiles`](https://github.com/kuwarte/dotfiles)
-
-<br/>
 
 ### Featured Projects
 
@@ -60,9 +54,6 @@ kuwarte@github~$ whoami
 `> Enneagram Social Platform`
 
 > [`typecircle`](https://typecircle.vercel.app)
-
-<br/>
-
 
 ### Contact
 
