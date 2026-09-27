@@ -20,9 +20,9 @@ kuwarte@github~$ whoami
 
 <br/>
 
-```
+<pre>
 ██ Tech Stack
-```
+</pre>
 
 `> Languages`
 
@@ -45,9 +45,9 @@ kuwarte@github~$ whoami
 
 <br/>
 
-```
+<pre>
 ██ Dotfiles
-```
+</pre>
 
 `> Neovim + WSL config`
 
@@ -55,9 +55,9 @@ kuwarte@github~$ whoami
 
 <br/>
 
-```
+<pre>
 ██ Featured Projects
-```
+</pre>
 
 `> Project Management Tool`
 
@@ -69,9 +69,9 @@ kuwarte@github~$ whoami
 
 <br/>
 
-```
+<pre>
 ██ Contact
-```
+</pre>
 
 `> Portfolio`
 
