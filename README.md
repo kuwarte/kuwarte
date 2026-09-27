@@ -1,4 +1,4 @@
-```
+<pre>
   ███
   ▒▒▒███
     ▒▒▒███
@@ -9,14 +9,15 @@
   ▒▒▒       ▒▒▒▒▒▒▒▒▒
 
 kuwarte@github~$ whoami
+</pre>
 
-Jasper Cuarte
-> Full Stack Developer
+### Jasper Cuarte
+`Full Stack Developer`
 
-About Me
-> 3rd-year Computer Science student
-> Mostly build on the backend, but comfortable across the stack
-```
+### About Me
+- `3rd-year Computer Science student`
+- `Mostly build on the backend, but comfortable across the stack`
+
 <br/>
 
 ```
