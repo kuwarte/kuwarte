@@ -23,17 +23,14 @@ kuwarte@github~$ whoami
 `> Languages`
 
 > <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,solidity" />
-<br/>
 
 `> Frameworks / Libraries`
 
 > <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,react,nextjs,tailwind" />
-<br/>
 
 `> Databases`
 
 > <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
-<br/>
 
 `> Tools`
 
