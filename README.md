@@ -43,6 +43,9 @@ kuwarte@github~$ whoami
 - [`avanzem`](https://avanzem.vercel.app) `:` `Project Management Tool`
 - [`typecircle`](https://typecircle.vercel.app) `:` `Enneagram Social Website`
 
+`> Web3`
+- [`agentmesh`](https://x402agentmesh.vercel.app) `:` `Pay-Per-Call API Marketplace for Autonomous AI Agents`
+
 `> Dotfiles`
 
 - [`dotfiles`](https://github.com/kuwarte/dotfiles) `:` `WSL and Neovim Configuration`
